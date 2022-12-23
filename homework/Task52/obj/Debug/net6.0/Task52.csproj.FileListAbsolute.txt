@@ -1,0 +1,15 @@
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+D:\Desktop\S7_C#\homework\Task52\bin\Debug\net6.0\Task52.exe
+D:\Desktop\S7_C#\homework\Task52\bin\Debug\net6.0\Task52.deps.json
+D:\Desktop\S7_C#\homework\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+D:\Desktop\S7_C#\homework\Task52\bin\Debug\net6.0\Task52.dll
+D:\Desktop\S7_C#\homework\Task52\bin\Debug\net6.0\Task52.pdb
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.dll
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\refint\Task52.dll
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.pdb
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+D:\Desktop\S7_C#\homework\Task52\obj\Debug\net6.0\ref\Task52.dll
